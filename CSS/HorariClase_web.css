@@ -1,0 +1,63 @@
+h1{
+    font-size: 50px;
+    font: oblique;
+    text-align: center;
+    text-decoration: black;
+}
+
+
+table{
+border-color: black;
+border-width: 2px;
+border-style: solid;
+border-collapse: collapse;
+
+}
+
+table,td,th{
+
+   border-color: black;
+   border-width: 2px;
+   border-style: solid;
+   border-collapse: collapse;
+}
+
+.hores{
+
+    background-color: darkgray;
+
+}
+
+
+.subrayar{
+     
+    text-decoration: underline;
+    color: black;
+
+}
+
+.patio{
+
+    font-size: 30px;
+    color: red;
+    
+}
+
+.Bardaji{
+    background-color: cornflowerblue;
+}
+.Montesinos{
+    background-color: darkkhaki;
+}
+
+.Carlos{
+    background-color: lightpink;
+}
+
+.Pulido{
+    background-color: lightseagreen;
+}
+
+.Alonso{
+    background-color: mediumslateblue;
+}

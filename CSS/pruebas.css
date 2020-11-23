@@ -1,0 +1,55 @@
+body{
+    background-color: antiquewhite;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+
+h1{
+  color: mediumblue;
+  font-size: 30px;
+  text-align: center;  
+}
+
+p{
+  color: chocolate;
+  font-weight: bold;
+}
+
+b{
+ color: blueviolet;
+}
+
+.limon{
+    color: yellowgreen;
+
+}
+
+#idcolor{
+    color: crimson;
+    font-size: 23px
+}
+
+img{
+   height: 300px;
+   width: 300px; 
+}
+
+table,td,th
+{
+   border-color: aquamarine;
+   border-width: 2px;
+   border-style: solid;
+   border-collapse: collapse;
+}
+td{
+  color: tomato;
+
+}
+th{
+    background-color: darkgrey;
+}
+
+#azul{
+    color: blue;
+}
