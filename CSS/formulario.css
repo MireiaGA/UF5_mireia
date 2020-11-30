@@ -1,0 +1,33 @@
+fieldset{
+    border-color: black;
+}
+legend{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h1{
+   font-size: 28px; 
+}
+
+.info{
+    background-color: orange;
+
+}
+
+.nacionalidad{
+    background-color: greenyellow;
+}
+
+.estudio{
+    background-color: violet;
+}
+
+.idiomas{
+    background-color: aqua;
+
+}
+
+.button{
+    background-color: grey;
+}
