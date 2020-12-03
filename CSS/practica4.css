@@ -1,0 +1,68 @@
+@font-face {
+    font-family: italiana;
+    src:url(../googlefonts/Poppins-LightItalic.ttf)
+}
+
+
+
+table,td{
+    border-color: black;
+    border-width: 2px;
+    border-style: ridge;
+    border-collapse: collapse;
+    }
+ 
+img{
+    width: 500px;
+    height: 400px;
+}
+
+
+video{
+    width: 320px;
+    height: 232px;
+}
+
+#video{
+        width: 100%;
+        height: auto;
+        text-align: center;
+}
+.margenes{
+    padding: 48px;
+    width: 527px;
+    background-color: coral;
+    font-family: italiana;
+}
+
+.margenes2{
+    padding: 48px;
+    width: 527px;
+    background-color: green;
+    font-family: 'Sansita Swashed', cursive;
+
+}
+.margenes3{
+    padding: 48px;
+    width: 527px;
+    background-color: dodgerblue;
+    font-family: 'Antic Slab', serif;
+
+}
+.margenes4{
+    padding: 48px;
+    width: 527px;
+    background-color: tan;
+    font-family: 'Cinzel', serif;
+}
+h2:hover{
+    color: white;
+    background-color: red;
+}
+h1:hover{
+    color: aqua;
+    background-color: blue;
+}
+a:link{
+    color: springgreen;
+}

@@ -1,0 +1,33 @@
+video{
+    width: 320px;
+    height: 232px;
+}
+
+
+#lion{
+    width: 420px;
+    height: 332px;
+}
+
+iframe{
+    width: 560px;
+    height: 320px; 
+     
+}
+
+
+h1{
+    font-family: 'El Messiri', sans-serif;
+    
+}
+
+h2:hover,h1:hover{
+    color: aqua;
+    background-color: blue;
+}
+a:link{
+    color: blueviolet;
+    
+}
+
+
