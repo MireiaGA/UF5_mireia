@@ -1,0 +1,28 @@
+fieldset{
+    border-color: black;
+}
+legend{
+    font: bolder;
+    background-color: black;
+    
+    color: aliceblue;
+}
+
+h1{
+   font-size: 28px; 
+}
+
+#id_submit{
+    background-color: black;
+    color: aliceblue;
+
+}
+#id_reset{
+    background-color: black;
+    color: aliceblue;
+}
+#descripcion{
+    
+    padding: 1px 0px;
+
+}
