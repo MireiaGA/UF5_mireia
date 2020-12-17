@@ -1,0 +1,74 @@
+
+#cabecera{
+
+    background-color: black;
+    position: relative;
+    width: 100%;
+    height: 342px;
+    
+}
+#Index{
+    background-color: cornflowerblue;
+    float: left;
+    width: 19%;
+    height: 351px;
+  
+}
+#Texto{
+background-color: darkblue;
+    width: 60%;
+    height: 351px;
+    float: left;
+    
+}
+#banner{
+background-color: cornflowerblue;
+    width: 21%;
+    height: 351px;
+    float: right;
+}
+#final{
+    background-color: black;
+    float: left;
+    width: 100%;
+}
+#gif{
+    padding-left: 34%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+
+}
+#foto2{
+    width: 30%;
+    height: 317px;
+    padding-left: 34%;
+    padding-top: 4%;
+}
+h1{
+    position: relative;
+    top: -95px;
+    left: 27%;
+    font-family: 'Oswald', sans-serif; color: aliceblue;
+
+}
+#foto1{
+    width: 19%;
+    padding-left: 4%;
+    padding-top: 6%;
+    
+}
+p{
+    font-family: 'Playfair Display', serif;
+    margin: 4%;
+    font-size: small;
+    color: cornsilk;
+}
+
+a:link{
+    background-color:blue;
+    color: white;
+}
+ a:hover{
+     color: cornflowerblue;
+     background-color: black;
+ }
