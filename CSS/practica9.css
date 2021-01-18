@@ -1,0 +1,118 @@
+#div1{
+    border-radius: 15%;
+    background: #721241;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+#div2{
+  border-radius: 25px;
+  border: 2px solid purple;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+#div3{
+    border-radius: 218px 68px 149px;
+  border: 2px solid fuchsia;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#div4{
+    border-radius: 124px 110px;
+    background-color: darkslateblue;
+    padding: 20px;
+    width: 200px;
+    height: 150px ;
+}
+#parrafo1{
+    background-color: hsl(120, 100%, 50%);
+}
+#parrafo2{
+    background-color: aquamarine;
+}
+#gradient1{
+    background-image: linear-gradient(180deg, red, yellow);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+
+
+}
+#gradient2{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    text-align: left;
+    width: 10%;
+    height: 25px;
+    transform: rotate(25deg);
+}
+#sombra1{
+    text-shadow: 2px 2px 5px red;
+    font-size: 5em;
+}
+#sombra2{
+color: indigo;
+font-size: 5em;
+text-shadow: 2px 2px 5px yellow;
+box-shadow: 5px 10px;
+width: 20%;
+}
+#transf1{
+transform: translate(50px, 100px);
+background-color: red;
+width: 100px;
+height: 100px;
+}
+#transf2{
+transform: rotate(20deg);
+background-color: salmon;
+width: 100px;
+height: 100px;
+}
+#transf3{
+    transform: scale(1, 1);
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
+#t{
+    width: 50px;
+    height: 50px;
+    background: blue;
+    transition:  2s,  2s, 2s;
+}
+#t:hover{
+    width: 500px;
+    height: 600px;
+    transform: rotate(180deg);
+}
+#anim1{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: relative;
+    animation-duration: 4s;
+    animation-name: mireia;
+    animation-iteration-count: 3;
+}
+@keyframes mireia{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:green; left:200px; top:0px;}
+    50%  {background-color:yellow; left:200px; top:200px;}
+    75%  {background-color:blue; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+    
+}
+
+.lletra{
+    column-count: 3;
+    column-gap: 20%;
+    column-rule-style: solid;
+    column-span: all;
+    font-size: 1.5em;
+    font-style: oblique;
+}
+   

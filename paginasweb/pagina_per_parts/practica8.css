@@ -98,7 +98,7 @@ padding-top: 15px ;
 padding-left:  4px ;
 color: white;
 font-size: 0.8em;
-background-color: rgba(24, 24,24,0);
+background-color: rgba(24,24,24,0);
 
 }
 
@@ -223,7 +223,7 @@ width: 31%;
 vertical-align: top;
 display: inline-block;
 margin-top: 0px;
-width: 48%;
+width: 32%;
 padding-right: 2px;
 list-style-image: url('imatges/external_link.png');
 }
